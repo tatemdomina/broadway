@@ -3,25 +3,23 @@ body {
   font-family: helvetica;
 }
 
-header {
-  background-image: url(./resources/the-flatiron-building.png);
+header,
+h4 {
+  background-image: url("the-flatiron-building.png");
 }
 
 h1 {
-  font-family: helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
 h2 {
-  font-family: helvetica;
   font-size: 32px;
   font-weight: bold;
 }
 
 h3 {
-  font-family: helvetica;
   font-size: 23px;
   font-weight: bold;
 }
@@ -37,7 +35,6 @@ p {
 }
 
 nav {
-  font-family: helvetica;
   font-size: 18px;
   color: white;
 }
